@@ -6,3 +6,7 @@ Shradha Khapra
 
 # Student
 Abhay Sharma
+
+# Partners
+Rishabh Sharma 
+Tikendra Singh
